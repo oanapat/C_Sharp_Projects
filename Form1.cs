@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//Oana Patrascu
+//Oana Patrascu Stadium Exercise
 
 //There are three seating categories at an athletic stadium. For a baseball game, Class
 //A seats cost $15 each, Class B seats cost $12 each, and Class C seats cost $9 each.
